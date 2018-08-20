@@ -1,0 +1,38 @@
+h2{
+  font-size: 30px;
+  font-style:oblique;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: lighter;
+  color: #76bcb5;
+}
+
+h3{
+  font size: 15px;
+  text-align: left;
+}
+
+h4{
+  text-align: left;
+  margin-left: 60px;
+  margin-right: 60px;
+  padding-bottom: 47px;
+
+}
+
+ul{
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+li{
+  padding-top: 5px;
+  padding-bottom: 10px;
+  font-style:italic;
+  font-weight: lighter;
+  margin-left: 100px
+  margin-right: 50px;
+}
+body{
+background-color:#fff5db;
+}
